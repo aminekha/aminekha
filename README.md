@@ -8,8 +8,7 @@ https://aminekha.github.io
 <h3>Projects</h3>
 <p>All these web apps are built using Python, Django, Tensorflow, and/or Pytorch</p>
 
-<h4>Transformer Chatbot Web App</h4>
-<a href="#">Demo</a>
+<h4>Transformer Chatbot Web App</h4> - <a href="#">Demo</a>
 <p>The transformer chatbot is a Django web app built using Tensorflow 2.0 and the Cornell Movie Dataset.</p>
 
 <h4>Translation Web App Using Pytorch</h4>

@@ -1,9 +1,9 @@
 <h1>Amine Khaoui</h1>
-<h3>Machine Learning Developer</h3>
-<p>I'm a Self-Taught Machine Learning Developer, Web Designer, and Video Editor. I love teaching machines to think using ML algorithms.</p>
-<p>I work mainly in Python, in addition to Django, Javascript, and PHP.</p>
+<h3>Senior Full Stack Developer</h3>
+<p>I'm an expert web developer/Designer. I love building apps that touch millions of users around the world.</p>
+<p>I work mainly in Python/Django, in addition to Angular and React.</p>
 <b>Checkout my Portfolio 👉👉</b>
-https://aminekha.github.io
+khaoui.com
 
 <h3>Projects</h3>
 <p>All these web apps are built using Python, Django, Tensorflow, and/or Pytorch</p>
